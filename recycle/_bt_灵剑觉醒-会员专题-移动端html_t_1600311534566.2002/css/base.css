@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/**
+ *
+ * @authors Marte (iqianduan@126.com)
+ * @date    2017-05-19 10:23:05
+ * @version $Id$
+ */
+html{margin:0; padding:0;}
+body{background:#f1f1f1; color:#888; padding:0; margin:0; font-size:100%; font-family:"Microsoft YaHei","Helvetica Neue",Helvetica,sans-serif,Arial,"tahoma";}
+div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,img,select,input,form,tr,td{padding:0; margin:0; list-style:none; vertical-align:middle;}
+input,textarea:focus{outline:none; -webkit-tap-highlight-color:rgba(0,0,0,0);}
+img{border:none;}
+a{text-decoration:none;}
+.fl{float:left;}
+.fr{float:right;}
+.clearfix:after{content:""; display:block; clear:both; height:0;}.clearfix{*zoom:1;}
+a{color:#999; text-decoration:none; transition:0.3s linear; -webkit-tap-highlight-color:rgba(0,0,0,0);}
